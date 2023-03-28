@@ -1,4 +1,4 @@
-package com.teekay.productservice.model;
+package org.teekay.productservice.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

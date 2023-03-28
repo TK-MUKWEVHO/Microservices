@@ -1,8 +1,8 @@
-package com.teekay.productservice.controller;
+package org.teekay.productservice.controller;
 
-import com.teekay.productservice.dao.ProductRequest;
-import com.teekay.productservice.dao.ProductResponse;
-import com.teekay.productservice.service.ProductService;
+import org.teekay.productservice.dao.ProductRequest;
+import org.teekay.productservice.dao.ProductResponse;
+import org.teekay.productservice.service.ProductService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

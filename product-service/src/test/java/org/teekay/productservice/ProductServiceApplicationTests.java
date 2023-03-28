@@ -1,4 +1,4 @@
-package com.teekay.productservice;
+package org.teekay.productservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

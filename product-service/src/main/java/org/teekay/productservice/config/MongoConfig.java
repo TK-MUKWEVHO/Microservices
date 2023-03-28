@@ -1,4 +1,4 @@
-package com.teekay.productservice.config;
+package org.teekay.productservice.config;
 
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoClients;

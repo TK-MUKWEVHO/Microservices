@@ -1,4 +1,4 @@
-package com.teekay.productservice.dao;
+package org.teekay.productservice.dao;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

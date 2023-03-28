@@ -1,9 +1,9 @@
-package com.teekay.productservice.service;
+package org.teekay.productservice.service;
 
-import com.teekay.productservice.dao.ProductRequest;
-import com.teekay.productservice.dao.ProductResponse;
-import com.teekay.productservice.model.Product;
-import com.teekay.productservice.repository.ProductRepository;
+import org.teekay.productservice.dao.ProductRequest;
+import org.teekay.productservice.dao.ProductResponse;
+import org.teekay.productservice.model.Product;
+import org.teekay.productservice.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

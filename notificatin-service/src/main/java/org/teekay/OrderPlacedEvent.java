@@ -1,4 +1,4 @@
-package com.teekay.orderservice.event;
+package org.teekay;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
